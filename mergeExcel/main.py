@@ -1,7 +1,6 @@
 #pip3 install xlrd 
 #pip3 install xlsxwriter
-import os
-import xlrd
+import os,xlrd
 import xlsxwriter
 import datetime,time
 Target_Folder_Path="mergeData/" #合并Excel目标文件夹默认程序当前目录下
